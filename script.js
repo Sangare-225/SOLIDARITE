@@ -5,7 +5,7 @@
                 name: "Montre Dorée Élégance",
                 category: "montres",
                 price: 145000,
-                image: "img/IMG-20260616-WA0020.jpg",
+                image: "image/IMG-20260616-WA0020.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Dorée Élégance"
             },
             {
@@ -13,7 +13,7 @@
                 name: "Bracelet en Perles & Or",
                 category: "bracelets",
                 price: 85000,
-                image: "img/IMG-20260616-WA0021.jpg",
+                image: "image/IMG-20260616-WA0021.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet en Perles & Or"
             },
             {
@@ -21,7 +21,7 @@
                 name: "Chaîne en Or Massif",
                 category: "chaines",
                 price: 320000,
-                image: "img/IMG-20260616-WA0022.jpg",
+                image: "image/IMG-20260616-WA0022.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Chaîne Dorée Massif"
             },
             {
@@ -29,7 +29,7 @@
                 name: "Bague Zircon Dorée",
                 category: "bagues",
                 price: 65000,
-                image: "img/IMG-20260616-WA0023.jpg",
+                image: "image/IMG-20260616-WA0023.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague Zircon Dorée"
             },
             {
@@ -37,7 +37,7 @@
                 name: "Montre Noire Minimaliste",
                 category: "montres",
                 price: 195000,
-                image: "img/IMG-20260616-WA0024.jpg",
+                image: "image/IMG-20260616-WA0024.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Noire Minimaliste"
             },
             {
@@ -45,7 +45,7 @@
                 name: "Collier Pendentif Cœur",
                 category: "colliers",
                 price: 120000,
-                image: "img/IMG-20260616-WA0025.jpg",
+                image: "image/IMG-20260616-WA0025.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Pendentif Cœur"
             },
             {
@@ -53,7 +53,7 @@
                 name: "Bracelet Cuir & Acier",
                 category: "bracelets",
                 price: 95000,
-                image: "img/IMG-20260616-WA0026.jpg",
+                image: "image/IMG-20260616-WA0026.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet Cuir & Acier"
             },
             {
@@ -61,7 +61,7 @@
                 name: "Ensemble Chaîne + Bracelet",
                 category: "chaines",
                 price: 280000,
-                image: "img/IMG-20260616-WA0027.jpg",
+                image: "image/IMG-20260616-WA0027.jpg",
                 whatsappText: "Bonjour, je suis intéressé par l'ensemble Chaîne + Bracelet"
             },
             {
@@ -69,7 +69,7 @@
                 name: "Bague en Argent & Onyx",
                 category: "bagues",
                 price: 75000,
-                image: "img/IMG-20260616-WA0028.jpg",
+                image: "image/IMG-20260616-WA0028.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague en Argent & Onyx"
             },
             {
@@ -77,7 +77,7 @@
                 name: "Montre Classique en Acier",
                 category: "montres",
                 price: 155000,
-                image: "img/IMG-20260616-WA0029.jpg",
+                image: "image/IMG-20260616-WA0029.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Classique en Acier"
             },
             {
@@ -85,7 +85,7 @@
                 name: "Collier Ras du Cou en Perles",
                 category: "colliers",
                 price: 130000,
-                image: "img/IMG-20260616-WA0030.jpg",
+                image: "image/IMG-20260616-WA0030.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Ras du Cou en Perles"
             },
             {
@@ -93,7 +93,7 @@
                 name: "Bracelet en Or Rose & Diamants",
                 category: "bracelets",
                 price: 210000,
-                image: "img/IMG-20260616-WA0031.jpg",
+                image: "image/IMG-20260616-WA0031.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet en Or Rose"
             },
             {
@@ -101,7 +101,7 @@
                 name: "Chaîne en Argent Massif",
                 category: "chaines",
                 price: 250000,
-                image: "img/IMG-20260616-WA0032.jpg",
+                image: "image/IMG-20260616-WA0032.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Chaîne en Argent Massif"
             },
             {
@@ -109,7 +109,7 @@
                 name: "Bague en Or Jaune & Saphir",
                 category: "bagues",
                 price: 180000,
-                image: "img/IMG-20260616-WA0033.jpg",
+                image: "image/IMG-20260616-WA0033.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague Saphir"
             },
             {
@@ -117,7 +117,7 @@
                 name: "Montre Sportive en Silicone",
                 category: "montres",
                 price: 120000,
-                image: "img/IMG-20260616-WA0034.jpg",
+                image: "image/IMG-20260616-WA0034.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Sportive en Silicone"
             },
             {
@@ -125,7 +125,7 @@
                 name: "Collier Long en Perles & Or",
                 category: "colliers",
                 price: 140000,
-                image: "img/IMG-20260616-WA0035.jpg",
+                image: "image/IMG-20260616-WA0035.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Long en Perles"
             },
             {
@@ -133,7 +133,7 @@
                 name: "Bracelet en Acier & Cuir Tressé",
                 category: "bracelets",
                 price: 100000,
-                image: "img/IMG-20260616-WA0036.jpg",
+                image: "image/IMG-20260616-WA0036.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet en Acier & Cuir Tressé"
             },
             {
@@ -141,7 +141,7 @@
                 name: "Montre Électrochrome en Titanium",
                 category: "montres",
                 price: 200000,
-                image: "img/IMG-20260616-WA0037.jpg",
+                image: "image/IMG-20260616-WA0037.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Électrochrome en Titanium"
             },
             {
@@ -149,7 +149,7 @@
                 name: "Collier Pendentif Lune & Étoiles",
                 category: "colliers",
                 price: 160000,
-                image: "img/IMG-20260616-WA0038.jpg",
+                image: "image/IMG-20260616-WA0038.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Pendentif Lune & Étoiles"
             },
             {
@@ -157,7 +157,7 @@
                 name: "Bague en Or Blanc & Rubis",
                 category: "bagues",
                 price: 190000,
-                image: "img/IMG-20260616-WA0039.jpg",
+                image: "image/IMG-20260616-WA0039.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague Rubis"
             },
             {
@@ -165,7 +165,7 @@
                 name: "Montre Automatique en Acier",
                 category: "montres",
                 price: 180000,
-                image: "img/IMG-20260616-WA0040.jpg",
+                image: "image/IMG-20260616-WA0040.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Automatique en Acier"
             },
             {
@@ -173,7 +173,7 @@
                 name: "Collier Ras du Cou en Cuir & Argent",
                 category: "colliers",
                 price: 150000,
-                image: "img/IMG-20260616-WA0041.jpg",
+                image: "image/IMG-20260616-WA0041.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Ras du Cou en Cuir & Argent"
             },
             {
@@ -181,7 +181,7 @@
                 name: "Bague en Or Rose & Diamants",
                 category: "bagues",
                 price: 210000,
-                image: "img/IMG-20260616-WA0042.jpg",
+                image: "image/IMG-20260616-WA0042.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague Rose"
             },
             {
@@ -189,7 +189,7 @@
                 name: "Montre à Quartz en Acier",
                 category: "montres",
                 price: 160000,
-                image: "img/IMG-20260616-WA0043.jpg",
+                image: "image/IMG-20260616-WA0043.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre à Quartz en Acier"
             },
             {
@@ -197,7 +197,7 @@
                 name: "Collier Pendentif Fleur en Or",
                 category: "colliers",
                 price: 170000,
-                image: "img/IMG-20260616-WA0044.jpg",
+                image: "image/IMG-20260616-WA0044.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Pendentif Fleur"
             },
             {
@@ -205,7 +205,7 @@
                 name: "Bague Cocktail en Or Blanc",
                 category: "bagues",
                 price: 230000,
-                image: "img/IMG-20260616-WA0045.jpg",
+                image: "image/IMG-20260616-WA0045.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague Cocktail"
             },
             {
@@ -213,7 +213,7 @@
                 name: "Montre Chronographe en Acier",
                 category: "montres",
                 price: 175000,
-                image: "img/IMG-20260616-WA0046.jpg",
+                image: "image/IMG-20260616-WA0046.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Chronographe en Acier"
             },
             {
@@ -221,7 +221,7 @@
                 name: "Bracelet Manchette en Cuir",
                 category: "bracelets",
                 price: 90000,
-                image: "img/IMG-20260616-WA0047.jpg",
+                image: "image/IMG-20260616-WA0047.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet Manchette en Cuir"
             },
             {
@@ -229,7 +229,7 @@
                 name: "Collier Choker en Argent",
                 category: "colliers",
                 price: 145000,
-                image: "img/IMG-20260616-WA0048.jpg",
+                image: "image/IMG-20260616-WA0048.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Choker en Argent"
             },
             {
@@ -237,7 +237,7 @@
                 name: "Chaîne Fine en Or Jaune",
                 category: "chaines",
                 price: 260000,
-                image: "img/IMG-20260616-WA0049.jpg",
+                image: "image/IMG-20260616-WA0049.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Chaîne Fine "
             },
             {
@@ -245,7 +245,7 @@
                 name: "Collier Triple Chaîne en Or",
                 category: "colliers",
                 price: 175000,
-                image: "img/IMG-20260616-WA0050.jpg",
+                image: "image/IMG-20260616-WA0050.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Triple Chaîne"
             },
             {
@@ -253,7 +253,7 @@
                 name: "Bracelet Jonc en Argent",
                 category: "bracelets",
                 price: 85000,
-                image: "img/IMG-20260616-WA0051.jpg",
+                image: "image/IMG-20260616-WA0051.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet Jonc en Argent"
             },
             {
@@ -261,7 +261,7 @@
                 name: "Montre Classique en Cuir",
                 category: "montres",
                 price: 165000,
-                image: "img/IMG-20260616-WA0052.jpg",
+                image: "image/IMG-20260616-WA0052.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Classique en Cuir"
             },
             {
@@ -269,7 +269,7 @@
                 name: "Bague Empreinte en Or",
                 category: "bagues",
                 price: 145000,
-                image: "img/IMG-20260616-WA0053.jpg",
+                image: "image/IMG-20260616-WA0053.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague Empreinte"
             },
             {
@@ -277,7 +277,7 @@
                 name: "Chaîne Sautoir en Argent",
                 category: "chaines",
                 price: 210000,
-                image: "img/IMG-20260616-WA0054.jpg",
+                image: "image/IMG-20260616-WA0054.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Chaîne Sautoir en Argent"
             },
             {
@@ -285,7 +285,7 @@
                 name: "Collier Médaille en Or Rose",
                 category: "colliers",
                 price: 155000,
-                image: "img/IMG-20260616-WA0055.jpg",
+                image: "image/IMG-20260616-WA0055.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Médaille "
             },
             {
@@ -293,7 +293,7 @@
                 name: "Bracelet Triple Rangs Perles",
                 category: "bracelets",
                 price: 115000,
-                image: "img/IMG-20260616-WA0056.jpg",
+                image: "image/IMG-20260616-WA0056.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet Triple Rangs Perles"
             },
             {
@@ -301,7 +301,7 @@
                 name: "Montre Luxe Chrono",
                 category: "montres",
                 price: 225000,
-                image: "img/IMG-20260616-WA0057.jpg",
+                image: "image/IMG-20260616-WA0057.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Montre Luxe Chrono"
             },
             {
@@ -309,7 +309,7 @@
                 name: "Bague Cocktail Perles",
                 category: "bagues",
                 price: 195000,
-                image: "img/IMG-20260616-WA0058.jpg",
+                image: "image/IMG-20260616-WA0058.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Bague Cocktail Perles"
             },
             {
@@ -317,7 +317,7 @@
                 name: "Chaîne Gourmette en Or",
                 category: "chaines",
                 price: 240000,
-                image: "img/IMG-20260616-WA0059.jpg",
+                image: "image/IMG-20260616-WA0059.jpg",
                 whatsappText: "Bonjour, je suis intéressé par la Chaîne Gourmette"
             },
             {
@@ -325,7 +325,7 @@
                 name: "Collier Ras du Cou en Or",
                 category: "colliers",
                 price: 165000,
-                image: "img/IMG-20260616-WA0060.jpg",
+                image: "image/IMG-20260616-WA0060.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Collier Ras du Cou"
             },
             {
@@ -333,7 +333,7 @@
                 name: "Bracelet Cuir & Or",
                 category: "bracelets",
                 price: 135000,
-                image: "img/IMG-20260616-WA0061.jpg",
+                image: "image/IMG-20260616-WA0061.jpg",
                 whatsappText: "Bonjour, je suis intéressé par le Bracelet en Cuir"
             },
         ];
