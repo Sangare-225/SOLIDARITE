@@ -99,9 +99,10 @@
             width: 100%;
         }
 
-        /* Réseaux sociaux : ils restent uniquement dans le footer */
         .social-header {
-            display: none !important;
+            display: flex;
+            gap: 15px;
+            align-items: center;
         }
 
         .social-header a {
@@ -125,10 +126,8 @@
             background: none;
             border: none;
             color: white;
-            font-size: 1.8rem;
+            font-size: 1.5rem;
             cursor: pointer;
-            padding: 8px;
-            flex-shrink: 0;
         }
 
         /* =========================
@@ -139,7 +138,7 @@
             background: linear-gradient(
                 rgba(0, 0, 0, 0.65),
                 rgba(0, 0, 0, 0.65)
-            ), url('IMG/IMG-20260616-WA0020.jpg');
+            ), url('image/IMG-20260616-WA0020.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
@@ -939,40 +938,6 @@
            RESPONSIVE
         ========================= */
         @media(max-width: 768px) {
-            /* HEADER MOBILE */
-            header {
-                overflow: visible;
-            }
-
-            nav {
-                width: 100%;
-                padding: 10px 15px;
-                min-height: 70px;
-            }
-
-            .logo {
-                font-size: 1.25rem;
-                gap: 7px;
-                min-width: 0;
-                white-space: nowrap;
-            }
-
-            .logo img {
-                width: 48px;
-                height: 48px;
-                flex-shrink: 0;
-            }
-
-            .logo span {
-                overflow: hidden;
-                text-overflow: ellipsis;
-            }
-
-            .menu-toggle {
-                display: block;
-                margin-left: auto;
-            }
-
             .hero h1 {
                 font-size: 2.5rem;
             }
@@ -1010,10 +975,8 @@
                 width: 100%;
                 background: #111;
                 flex-direction: column;
-                align-items: center;
                 padding: 20px;
                 gap: 15px;
-                box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
             }
 
             nav ul.active {
