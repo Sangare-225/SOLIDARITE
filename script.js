@@ -9,7 +9,7 @@ const products = [
         name: "Montre Dorée Élégance",
         category: "montres",
         price: 3500,
-        image: "IMG/IMG-20260616-WA0020.jpg",
+        image: "image/IMG-20260616-WA0020.jpg",
         whatsappText: "Bonjour, je suis intéressé par la Montre Dorée Élégance"
     },
 
@@ -18,7 +18,7 @@ const products = [
         name: "Montre Dorée",
         category: "montres",
         price: 3000,
-        image: "IMG/IMG-20260616-WA0021.jpg",
+        image: "image/IMG-20260616-WA0021.jpg",
         whatsappText: "Bonjour, je suis intéressé par la Montre Dorée"
     },
 
