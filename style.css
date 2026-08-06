@@ -99,10 +99,9 @@
             width: 100%;
         }
 
+        /* Réseaux sociaux : ils restent uniquement dans le footer */
         .social-header {
-            display: flex;
-            gap: 15px;
-            align-items: center;
+            display: none !important;
         }
 
         .social-header a {
@@ -126,8 +125,10 @@
             background: none;
             border: none;
             color: white;
-            font-size: 1.5rem;
+            font-size: 1.8rem;
             cursor: pointer;
+            padding: 8px;
+            flex-shrink: 0;
         }
 
         /* =========================
@@ -938,6 +939,40 @@
            RESPONSIVE
         ========================= */
         @media(max-width: 768px) {
+            /* HEADER MOBILE */
+            header {
+                overflow: visible;
+            }
+
+            nav {
+                width: 100%;
+                padding: 10px 15px;
+                min-height: 70px;
+            }
+
+            .logo {
+                font-size: 1.25rem;
+                gap: 7px;
+                min-width: 0;
+                white-space: nowrap;
+            }
+
+            .logo img {
+                width: 48px;
+                height: 48px;
+                flex-shrink: 0;
+            }
+
+            .logo span {
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+
+            .menu-toggle {
+                display: block;
+                margin-left: auto;
+            }
+
             .hero h1 {
                 font-size: 2.5rem;
             }
@@ -975,8 +1010,10 @@
                 width: 100%;
                 background: #111;
                 flex-direction: column;
+                align-items: center;
                 padding: 20px;
                 gap: 15px;
+                box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
             }
 
             nav ul.active {
